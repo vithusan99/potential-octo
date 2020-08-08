@@ -54,6 +54,14 @@ const useStyle =makeStyles({
            <Grid xs={3}/>
          </Grid>
      </Box> */}
+
+     <Grid container >
+         <Grid xs={4}>
+             <img src="IMG-20200725-WA0012 (1).jpg"/>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCzpBuWfnHzXk-OM1K1bdH-TQTY9osldwmAg&usqp=CAU"/>
+         </Grid>
+     </Grid>
+
      
      </div>
     
